@@ -24,9 +24,10 @@ The objective of this project was to evaluate the stability, correctness, and us
 
 | File/Folder Name                     | Description                                                   |
 |-------------------------------------|---------------------------------------------------------------|
-| `Final_Project_Report.docx`         | Comprehensive final project report with results and analysis |
-| `Test_Plan_Document.docx`           | Outlines the test plan for the project|
-| `Test_Design & Defect Log.xlsx`     | Designed test cases for each module and Logged defects with severity, remarks, and status |
+| `Final_Project_Report.pdf`         | Comprehensive final project report with results and analysis |
+| `Test_Plan_Document.pdf`           | Outlines the test plan for the project|
+| `Test_Design.pdf`                  | Designed test cases and scenarios for each module |
+| `Defect Log.pdf`                   | Logged defects with severity, remarks, and status |
 | `selenium_automation_scripts.ipynb` | Jupyter Notebook with Selenium scripts |
 | `Invalid_Login_Attempts.ipynb`      | Jupyter Notebook with Selenium scripts |
 
